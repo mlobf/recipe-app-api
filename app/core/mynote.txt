@@ -1,0 +1,71 @@
+My notes 
+        
+Viagens corporativas.
+        Tb trabalha com particular.
+        AWS
+        A equipe e aberta a ideias
+        Gilmar = redes
+        Alberto = Diretor
+        Alisson = tech lead
+        Bruno = Back em vendas
+        Mais processo que ferramentas
+        slack 
+        jira
+        
+        esta semana sera de estudo
+        Vamos conhecer a empresa 
+
+Alison
+    
+        TECHLEAD
+            
+            Git flow
+            pullrequest
+                master
+                deve
+                homolog
+            
+            Servidor
+                
+            padrao = fech mais card do gira nas brenchs
+            hotfix = correçoes
+            release 
+
+            Gitflow sao boas praticas.
+
+
+            depois do aval do cliente 
+            e feito o deploy
+
+            repo de code e o biitbucked
+            Fazer bons comentarios nos commits
+            Ver o pull request para deploy
+            Deploy e manual, 
+            ver  create brach Feature
+            ver brench realize 
+            Ideia Janks docker
+            Pytest para testes
+            
+            Obj e integra continua
+            Ver criar o Container Docker
+            Check the version system layout as V.1.5.4
+
+            Has SOUP and REST 
+            Postgres, MySQL
+            Apache
+            Board
+            Kanban
+            Study Jira 
+            Ver conceitos de Back log
+            MeetingBoard - projeto
+
+            Alisson sempre estara disponivel
+
+           Gustavo Guanabara
+           Para entender SOUP tem que ver a libs.
+           
+
+           Configurar a maquina, tarefas segundo os docks.
+        
+         
+
